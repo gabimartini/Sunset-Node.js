@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color: #072752;
+    margin-top: 5vw;
+    border: 2px solid white;
+    background: white;
+    width: 15vw;
+    margin-left: 40.5vw;
+   transform: rotate(0deg);
+    
+}
+
+div{
+    width: 55vw;
+    height: 4vw;
+    border: 2px solid transparent;
+    margin-left: 2vw;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.4vw;
+}
+
+#background{
+    border: 5px solid orange;
+    width: 60vw;
+    height: 30vw;
+    margin-left: 18.5vw;
+    margin-top: -2.9vw;
+
+}
+
+#divlat{
+  
+    margin-top: 6vw;
+    
+}
+
+#divlong{
+ 
+    margin-top: 2vw;
+    
+}
+
+#divtimezone{
+   
+    margin-top: 1vw;
+ 
+}

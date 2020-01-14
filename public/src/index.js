@@ -1,0 +1,6 @@
+window.app = new Controller();
+
+
+
+
+
