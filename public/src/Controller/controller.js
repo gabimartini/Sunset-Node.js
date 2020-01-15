@@ -65,7 +65,9 @@ arrayLatRequest.push(arrayLat[i]);
 arrayLongRequest.push(arrayLong[i]);  
 
 
-try {
+
+    
+try { //handle error
   json = JSON.parse(xhttp.responseText);
 }catch(err) {
   document.getElementById("demo").innerHTML = err.message;
